@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#081053"
+        tools:context=".FullArticleActivity">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/profil_btn"
+                android:layout_width="36dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginEnd="4dp"
+                android:layout_marginStart="4dp"
+                android:background="#081053"
+                android:drawableStart="@drawable/ic_action_name"
+                android:drawableLeft="@drawable/ic_action_name">
+
+            </Button>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/titreArticleTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:adjustViewBounds="true"
+            android:gravity="center_horizontal"
+            android:padding="20dp"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="32sp" />
+
+        <ImageView
+            android:id="@+id/articleImg"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:adjustViewBounds="true"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:textSize="18sp"
+            ></ImageView>
+
+        <TextView
+            android:id="@+id/article_txt"
+            android:layout_width="fill_parent"
+            android:gravity="center"
+            android:textStyle="italic"
+            android:textSize="24sp"
+            android:layout_height="0dp"
+            android:layout_marginTop="20dp"
+            android:adjustViewBounds="true"
+            android:layout_weight="1"
+            android:text=""
+            android:textColor="#FFFFFF"
+            />
+
+    </LinearLayout>
+</ScrollView>
