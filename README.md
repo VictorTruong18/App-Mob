@@ -22,49 +22,49 @@ Type a name in order to start the quizz !
 
 ### 1 - 2) Question 1/5 (Question view)
 
-### 1 - 3) Question 1/5 (Alert Correct Answer View)
-
 ![App%20Mobile%20Up%20To%20Date/Screenshot_1586508721.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586508721.png)
 
-![App%20Mobile%20Up%20To%20Date/Screenshot_1586508794.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586508794.png)
-
 I have an image and four news titles. I have to guess which title correspond to the image. If I'm right I earn a point, if i'm not I don't earn any point.
+
+### 1 - 3) Question 1/5 (Alert Correct Answer View)
+
+![App%20Mobile%20Up%20To%20Date/Screenshot_1586508794.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586508794.png)
 
 I chose the correct answer. I earned a point. I have the opportunity to read the full article. I'm not going to miss it.
 
 ### 1 - 4) Question 1/5 (Full article View)
 
-### 1 - 5) Question 2/5 (Question view)
-
 ![App%20Mobile%20Up%20To%20Date/Screenshot_1586508857.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586508857.png)
 
-![App%20Mobile%20Up%20To%20Date/Screenshot_1586509029.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586509029.png)
-
 I can read the full article and when I will touch the 'return button' of my smartphone it will directly lead me to the next question.
+
+### 1 - 5) Question 2/5 (Question view)
+
+![App%20Mobile%20Up%20To%20Date/Screenshot_1586509029.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586509029.png)
 
 Let's assume now that I mess up on purpose and that I choose a wrong answer.
 
 ### 1 - 6) Question 2/5 (Alert Wrong Answer View)
 
-### 1 - 7) Question 3/5 (Question View)
-
 ![App%20Mobile%20Up%20To%20Date/Screenshot_1586509119.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586509119.png)
 
-![App%20Mobile%20Up%20To%20Date/Screenshot_1586509215.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586509215.png)
-
 Well I was wrong so I didn't earn any points however I still have the right to read the full article. Let's say that i am very stubborn and choose not to read the full article.
+
+### 1 - 7) Question 3/5 (Question View)
+
+![App%20Mobile%20Up%20To%20Date/Screenshot_1586509215.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586509215.png)
 
 You saw, it directly led me to the next question !  Now this one is way too obvious I have to get that one right !
 
 ### 1 - 8) Question 3/5 (Alert Right Answer View)
 
-### 1 - 8) Question 3/5 (Full article View)
-
 ![App%20Mobile%20Up%20To%20Date/Screenshot_1586509279.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586509279.png)
 
-![App%20Mobile%20Up%20To%20Date/Screenshot_1586509391.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586509391.png)
-
 I knew it ! But still I want more information on this subject !
+
+### 1 - 8) Question 3/5 (Full article View)
+
+![App%20Mobile%20Up%20To%20Date/Screenshot_1586509391.png](App%20Mobile%20Up%20To%20Date/Screenshot_1586509391.png)
 
 Ohh very interesting ! Now I think you pretty much understood how the app works so let's skip the two next answers !
 
@@ -78,7 +78,7 @@ Wow guess i'm pretty 'up-to-date'. The see you tommorow button will lead you to 
 
 the Api that I used for this project is called news.api [https://newsapi.org](https://newsapi.org/)
 
-![App%20Mobile%20Up%20To%20Date/Screen_Shot_2020-04-10_at_11.27.55.png](App%20Mobile%20Up%20To%20Date/Screen_Shot_2020-04-10_at_11.27.55.png)
+![App%20Mobile%20Up%20To%20Date/Screen_Shot_2020-04-10_at_11.37.05.png](App%20Mobile%20Up%20To%20Date/Screen_Shot_2020-04-10_at_11.37.05.png)
 
 this is the url that we used (Api key has been removed :) 
 
